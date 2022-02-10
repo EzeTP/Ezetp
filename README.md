@@ -12,6 +12,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=FAFAFA)
 
 
+📫 Get in touch
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzeTP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
