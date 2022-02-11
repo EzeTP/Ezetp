@@ -12,7 +12,10 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=FAFAFA)
 
 
-📫 Get in touch
+  📫 Get in touch
+<ul>Email: tejada.eap@gmail.com </ul>
+<ul>GitHub: https://github.com/EzeTP </ul>
+<ul>Portfolio: ezequiel-tejada.vercel.app </ul>
 
 
 
