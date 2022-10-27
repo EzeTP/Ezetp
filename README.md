@@ -14,9 +14,6 @@
 
   📫 Get in touch
 <ul>Email: tejada.eap@gmail.com </ul>
-<ul>GitHub: https://github.com/EzeTP </ul>
-<ul>Portfolio: ezequiel-tejada.vercel.app </ul>
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzeTP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
